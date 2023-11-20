@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656666332174",
+    "project_id": "ecommerce-acf01",
+    "storage_bucket": "ecommerce-acf01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656666332174:android:d063b36f0b653bf158c05f",
+        "android_client_info": {
+          "package_name": "com.example.edukaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656666332174-fe7s4phjgia590i5f93pih0e1arbmcp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edukaan",
+            "certificate_hash": "cac8174b4716d9c6a2778beda2ed265a8f941ced"
+          }
+        },
+        {
+          "client_id": "656666332174-j9ee7jjkmqhp35l9jjtt79reqgejju0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMWSxuMHtDrdeaOX7uJq7h3_1dGMSgOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656666332174-j9ee7jjkmqhp35l9jjtt79reqgejju0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
